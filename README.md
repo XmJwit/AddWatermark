@@ -5,4 +5,4 @@ Add watermark to the picture
 ![Before](https://raw.githubusercontent.com/XmJwit/AddWatermark/master/test.jpg)
 
 ## After
-![After](https://raw.githubusercontent.com/XmJwit/AddWatermark/master/test_success.png)
+![After](https://raw.githubusercontent.com/XmJwit/AddWatermark/master/test_jpg.jpg)
