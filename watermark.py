@@ -31,7 +31,7 @@ def add_text_to_image(image, text):
 
 if __name__ == '__main__':
  img = Image.open("test.jpg")   # 当前目录下的test.jpg
- im_after = add_text_to_image(img, u'测试使用') # 水印
+ im_after = add_text_to_image(img, u'该图片仅用作U-file实名认证使用') # 水印
  im_after.save(u'test_success.png') # 保存后的图片文件，后缀必须为.png
  
  imgnew = im_after.convert('RGB')
